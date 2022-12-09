@@ -17,7 +17,7 @@ print('sum:'+str(sum))
 
 
 
-lista = [1, 2, 8, 12, 15,17]
+lista = [2, 4, 6, 8]
 contiguos = []
 
 #iteramos en el rango del tamaño de la lista -1
